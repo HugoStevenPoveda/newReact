@@ -13,7 +13,7 @@ class Users extends Component{
             users:[]
         }
     }
-/* 
+ 
     componentDidMount(){
 
         fetch('https://jsonplaceholder.typicode.com/users' , {method:'get'})
@@ -24,9 +24,9 @@ class Users extends Component{
 
 
             }
-        )} */
+        )} 
 
-componentDidMount(){
+/* componentDidMount(){
   axios.get('http://localhost:8000/api/hello-view/')
   .then(resp=>{
 
@@ -35,12 +35,7 @@ componentDidMount(){
   }
     
     )
-
-
-
-
-
-}
+} */
 
 
 
